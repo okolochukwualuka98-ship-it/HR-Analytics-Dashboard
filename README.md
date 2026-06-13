@@ -1,5 +1,8 @@
 # HR Analytics Dashboard
 
+<img width="1920" height="983" alt="DASHBOARD" src="https://github.com/user-attachments/assets/00745de4-5d28-4ff0-afad-6f40d98570e3" />
+
+
 ## Project Overview
 This project is an interactive HR Analytics Dashboard built in Power BI.
 
